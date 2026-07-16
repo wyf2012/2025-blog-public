@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "星烬_StarAshes",
+		"description": "",
+		"username": "Star Ashes"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -44,22 +44,22 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
+			"type": "qq",
+			"value": "1761964381",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/3546878033529039?",
+			"label": "bilibili",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "bixie45@outlook.com",
 			"label": "",
 			"order": 1
 		}
