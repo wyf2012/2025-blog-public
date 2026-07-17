@@ -80,6 +80,13 @@
 			"value": "https://github.com/wyf2012",
 			"label": "Github",
 			"order": 5
+		},
+		{
+			"id": "button-1784251270833",
+			"type": "x",
+			"value": "https://x.com/starrycosmos45",
+			"label": "X",
+			"order": 6
 		}
 	],
 	"clockShowSeconds": false,
