@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "星烬_StarAshes",
-		"description": "",
+		"description": "Star Ashes的个人小站",
 		"username": "Star Ashes"
 	},
 	"theme": {
@@ -66,6 +66,20 @@
 			"value": "bixie45@outlook.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1784248024812",
+			"type": "instagram",
+			"value": "https://www.instagram.com/starrycosmos2012/",
+			"label": "instagram",
+			"order": 4
+		},
+		{
+			"id": "button-1784248061194",
+			"type": "github",
+			"value": "https://github.com/wyf2012",
+			"label": "Github",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
