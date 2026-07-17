@@ -38,9 +38,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1784247805873",
+			"url": "https://wallpaperm.cmcm.com/8d7209fbaf013c51f98f7e0f2c3a1e09.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1784247805873",
 	"socialButtons": [
 		{
 			"id": "github",
